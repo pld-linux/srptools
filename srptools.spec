@@ -2,12 +2,12 @@
 Summary:	Tools for SRP/IB
 Summary(pl.UTF-8):	Narzędzia do SRP/IB
 Name:		srptools
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	BSD or GPL v2
 Group:		Networking/Utilities
 Source0:	http://www.openfabrics.org/downloads/srptools/%{name}-%{version}.tar.gz
-# Source0-md5:	dfec73fda72bc2e2c234c1cffe62a190
+# Source0-md5:	164cd5b9f783dce19b142d6cd1a1c89a
 URL:		http://www.openfabrics.org/
 BuildRequires:	libstdc++-devel
 BuildRequires:	zlib-devel
