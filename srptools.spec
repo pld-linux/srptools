@@ -1,9 +1,10 @@
+# NOTE: for versions >= 17 see rdma-core.spec
 # TODO: PLDify init script
 Summary:	Tools for SRP/IB
 Summary(pl.UTF-8):	Narzędzia do SRP/IB
 Name:		srptools
 Version:	1.0.3
-Release:	1
+Release:	1.1
 License:	BSD or GPL v2
 Group:		Networking/Utilities
 Source0:	https://www.openfabrics.org/downloads/srptools/%{name}-%{version}.tar.gz
